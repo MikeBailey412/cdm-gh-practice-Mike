@@ -23,3 +23,6 @@ How well do these *affordances*, i.e. prominent potentialities, line up with the
 File a pull request back to the main repository when you're done.
 
 ## Our thoughts:
+
+I think what she's saying definitely makes sense.  Especially how it's encyclopedic since the internet is massive and contains so much information.
+It's also participatory because the internet makes it so you can take part in things without having to be in a specific place in person.  It makes participating in certian activities much easier.  

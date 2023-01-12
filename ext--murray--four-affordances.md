@@ -23,6 +23,4 @@ How well do these *affordances*, i.e. prominent potentialities, line up with the
 File a pull request back to the main repository when you're done.
 
 ## Our thoughts:
-
-I think what she's saying definitely makes sense.  Especially how it's encyclopedic since the internet is massive and contains so much information.
-It's also participatory because the internet makes it so you can take part in things without having to be in a specific place in person.  It makes participating in certian activities much easier.  
+Our story doesn't really go in depth into the differences of analog and digital too much but it does mention that with the invention of the computer now people can do practically everything in the digital space. So varther than only existing in physical spaces now media can exist in a virtual place. 
